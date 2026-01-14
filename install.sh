@@ -4,8 +4,8 @@ apt update && apt upgrade -y
 apt install python3 python3-pip git -y
 pip3 install telebot requests paramiko
 
-git clone https://github.com/gxyenn/velyddos-real
-cd velyddos-real
+git clone https://github.com/Gxyenn/VelyDdos
+cd VelyDdos
 
 # Install requirements
 pip3 install -r requirements.txt
