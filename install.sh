@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "[+] Installing VelyDDoS REAL Engine..."
+echo "[+] Installing VelyDDoS By Gxyenn 正式 Version 2.0.0 "
 apt update && apt upgrade -y
 apt install python3 python3-pip git -y
 pip3 install telebot requests paramiko

