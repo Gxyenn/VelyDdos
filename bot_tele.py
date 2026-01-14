@@ -12,7 +12,7 @@ active_attacks = {}
 # ==================== /start ====================
 @bot.message_handler(commands=['start'])
 def start(message):
-    photo_url = "https://files.catbox.moe/kt6tdp.heic"
+    photo_url = "https://files.cloudkuimages.guru/images/00814c6d6eef.jpg"
     
     caption = """
 **Welcome To VelyDdos REAL Engine**
